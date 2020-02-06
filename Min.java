@@ -2,15 +2,6 @@ package practiseloops;
 
 public class Min {
     public static void main(String[] args) {
-        int count = 0;
-
-        while (count <= 100) {
-            System.out.println("Imtiaz" + count);
-            count++;
-            if (count == 30) {
-                break;
-            }
-        }
         String str = "We have a larg inventory of things in our warehouse falling in "
         +"the category:apperal and the slightly "
                 + "more in demand category:makeup along with the category:furniture and....";
